@@ -28,6 +28,7 @@ namespace AutomationWeb.SeleniumUtil
                     webDriver = new FirefoxDriver(pathDriver);
                     break;
             }
+
             return webDriver;
         }
     }

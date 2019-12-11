@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Text;
 using OpenQA.Selenium.Support.UI;
 using AutomationWeb.SeleniumUtil;
-using Microsoft.Extensions.Configuration;
 using OpenQA.Selenium;
 using NUnit.Framework;
 
