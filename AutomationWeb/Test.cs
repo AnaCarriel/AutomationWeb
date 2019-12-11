@@ -10,8 +10,7 @@ namespace AutomationWeb
     public class Test
     {
         public void TestarInserirProdutoCarrinho()
-        {
-            
+        {            
         }
     }
 }
